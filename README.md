@@ -1,6 +1,6 @@
 # 🚀 Automatic Resume Builder
 
-A **Java-based** resume builder that helps users create professional resumes effortlessly by filling in their details without needing to write code.
+A **Java-based** resume builder that helps users create professional resumes effortlessly by filling in their details without needing to write code.By leveraging Java Swing for the UI and MySQL with JDBC for data management, this tool ensures a user-friendly experience with secure data storage. The generated resumes maintain a polished and professional look, removing the hassle of manual design.
 
 ## 📌 Features
 - **User-Friendly UI** – Built with Java Swing and Windows Builder.
